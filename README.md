@@ -1,7 +1,7 @@
 # book-nlp-mod-txtlab
 Modified version of dbamman's book-nlp with character gender reported for txtlab @McGill's research purposes.
 
-### MODIFICATION
+## MODIFICATION
 The following is a modified version of BookNLP which includes character gender data in the output token table and html file. The modifications where made to suit the needs of .txtLab at McGill in there Literary data mining tasks.
 
 Gender:
@@ -21,10 +21,10 @@ Eva.P. 17/06/2017
 BookNLP:
 David Bamman, Ted Underwood and Noah Smith, "A Bayesian Mixed Effects Model of Literary Character," ACL 2014.
 
-### ORIGINAL README FROM BookNLP
+## ORIGINAL README FROM BookNLP
 
-BookNLP
-=======
+##BookNLP
+
 
 BookNLP is a natural language processing pipeline that scales to books and other long documents (in English), including:
 
